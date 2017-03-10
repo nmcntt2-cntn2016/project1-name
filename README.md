@@ -11,4 +11,10 @@ MSSV | Họ và tên
 1612847 | Đỗ Hoàng Anh Duy
 
 
+* Product Backlog
+
+1. Thiết kế cấu trúc
+2. Thiết kế giao diện
+3. Thiết kế mô hình quản lý admin
+
 Name created by God
