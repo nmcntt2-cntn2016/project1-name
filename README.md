@@ -10,7 +10,9 @@ MSSV    | Họ và tên
 1612847 | Đỗ Hoàng Anh Duy
 
 * Nội dung dự án
+
 Xây dựng hệ thống quản lý đơn từ online, có các chức năng chính:
+
 - Nộp đơn, tiếp nhận đơn qua mạng 
 - Quản lý hồ sơ, đơn từ của công ty, tổ chức 
 - Quản lý, thu thập hoá đơn của khách hàng
