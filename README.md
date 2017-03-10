@@ -18,6 +18,10 @@ Xây dựng hệ thống quản lý đơn từ online, có các chức năng ch�
 - Quản lý, thu thập hoá đơn của khách hàng
 - Kết hợp thanh toán qua mạng 
 
+### Mục đích, đối tượng sử dụng
+
+Đối tượng sử dụng chính của sản phẩm là các công ty, doanh nghiệp, cơ quan nhà nước. Dự án sẽ giúp giảm tải hệ thống hành chính, tiết kiệm chi phí quản lý và phổ cập ứng dụng công nghệ đến người dùng.
+
 ### Product Backlog
 
 1. Thiết kế cấu trúc
