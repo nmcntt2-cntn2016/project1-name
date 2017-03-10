@@ -1,6 +1,6 @@
 # Môn học: Nhập môn công nghệ thông tin 2.
 ## Đồ án 1: Website quản lý đơn từ online
-* Các thành viên
+### Các thành viên
 
 MSSV    | Họ và tên
 ------- | -----------------
