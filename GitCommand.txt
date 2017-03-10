@@ -1,0 +1,16 @@
+- Clone git
+git clone <copied link from github>
+- Update local git
+git pull
+- Push new codes
+git add --all
+git commit -m "Commit Messages"
+git push
+* if it doesnt work, use "git push --force"
+- Create new branch
+git checkout -b <branch name>
+- Merge branch
+Move to master branch with
+git checkout master
+then
+git merge <branch name>
