@@ -16,5 +16,6 @@ MSSV | Họ và tên
 1. Thiết kế cấu trúc
 2. Thiết kế giao diện
 3. Thiết kế mô hình quản lý admin
+4. Thiết kế mô hình quản lý user
 
 Name created by God
