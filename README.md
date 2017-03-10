@@ -2,9 +2,8 @@
 ## Đồ án 1: Website quản lý đơn từ online
 * Các thành viên
 
-
-MSSV | Họ và tên
------------- | -------------
+MSSV    | Họ và tên
+------- | -----------------
 1612844 | Huỳnh Ngọc Đỉnh
 1612865 | Lương Tấn Khang
 1612902 | Phan Quốc Tuấn
