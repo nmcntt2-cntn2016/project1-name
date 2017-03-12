@@ -9,24 +9,24 @@ MSSV    | Họ và tên
 1612902 | Phan Quốc Tuấn
 1612847 | Đỗ Hoàng Anh Duy
 
+### Mục đích, đối tượng sử dụng
+
+Cải thiện tình trạng rườm rà không cần thiết của những đơn từ tại trường Đại học hiện nay. Khi bạn muốn có đơn từ gì đó, bạn phải trực tiếp lên những phòng ban để yêu cầu, sau đó những phòng ban sẽ chuyển yêu cầu cầu của bạn đến những nơi có thẩm quyền, sau đó đơn mới được duyệt và trả lại. Quá trình này tỏ vẻ tốn khá nhiều thời gian và công sức của rất nhiều người. Để giải quyết tình trạng đó chúng tôi tạo ra hệ thống đơn online.
+
+Đối tượng sử dụng của dự án là những sinh viên, cá nhân tổ chức cần liên hệ, yêu cầu những đơn từ, bảng mẫu từ nhà trường.
+
 ### Nội dung dự án
 
 Xây dựng hệ thống quản lý đơn từ online, có các chức năng chính:
 
 - Nộp đơn, tiếp nhận đơn qua mạng 
-- Quản lý hồ sơ, đơn từ của công ty, tổ chức 
-- Quản lý, thu thập hoá đơn của khách hàng
-- Kết hợp thanh toán qua mạng 
-
-### Mục đích, đối tượng sử dụng
-
-Đối tượng sử dụng chính của sản phẩm là các công ty, doanh nghiệp, cơ quan nhà nước. Dự án sẽ giúp giảm tải hệ thống hành chính, tiết kiệm chi phí quản lý và phổ cập ứng dụng công nghệ đến người dùng.
+- Quản lý người dùng, hồ sơ, đơn từ của tổ chức. 
 
 ### Product Backlog
 
-1. Thiết kế cấu trúc
-2. Thiết kế giao diện
-3. Thiết kế chức năng cho quản trị viên
-4. Thiết kế chức năng cho người dùng
+4. Thiết kế cấu trúc
+3. Thiết kế giao diện
+2. Thiết kế chức năng cho quản trị viên
+1. Thiết kế chức năng cho người dùng
 
 Name created by God
