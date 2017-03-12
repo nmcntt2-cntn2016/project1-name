@@ -26,7 +26,7 @@ Xây dựng hệ thống quản lý đơn từ online, có các chức năng ch�
 
 1. Thiết kế cấu trúc
 2. Thiết kế giao diện
-3. Thiết kế mô hình quản lý admin
-4. Thiết kế mô hình quản lý user
+3. Thiết kế chức năng cho quản trị viên
+4. Thiết kế chức năng cho người dùng
 
 Name created by God
