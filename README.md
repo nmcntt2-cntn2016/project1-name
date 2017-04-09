@@ -12,8 +12,9 @@ MSSV    | Họ và tên
 
 ## Ý tưởng: Hệ thống quản lý đơn online
 
-Trang web: https://name-cntn16.github.com
-Poster: https://name-cntn16.github.com/poster.pttx
+Trang web: https://name-cntn16.github.io
+
+Poster: https://github.com/nmcntt2-cntn2016/project1-name/blob/master/poster.pptx
 
 ### Thực trạng
 
@@ -39,8 +40,20 @@ Từ những vấn đề trên, chúng tôi quyết định xây dựng hệ th�
 	- Giao tiếp, chuyển đơn qua lại giữa các phòng ban.
 	- Tạo và quản lý phòng ban, nhân viên, cán bộ (dành cho ban giám hiệu).
 
-### Đối tượng hướng đến, lợi ích
+#### Đối tượng hướng đến, lợi ích
 
-Các trường đại học và trung học, ngoài ra cũng có thể mở rộng cho các công tý, tổ chức cần quản lý nhiều đơn từ.
+Đối tượng hướng đến là các trường đại học, trung học, ngoài ra cũng có thể mở rộng cho các công tý, tổ chức cần quản lý nhiều đơn từ.
 
 Hệ thống đơn online sẽ giúp công việc được xử lý nhanh hơn, đồng thời có thể tiết kiệm chi phí thuê nhân viên, cán bộ để xử lý đơn.
+
+#### Giải pháp
+
+![text](https://name-cntn16.github.io/png.png)
+
+Hệ thống có các phần chính:
+
+- Trang web hoặc mobile app dành cho sinh viên
+- Trang web dành các phòng ban, cán bộ
+- Cơ sở dữ liệu
+- Hệ thống API và backend server
+
