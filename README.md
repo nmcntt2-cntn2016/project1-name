@@ -10,13 +10,13 @@ MSSV    | Họ và tên
 1612902 | Phan Quốc Tuấn
 1612847 | Đỗ Hoàng Anh Duy
 
-## Ý tưởng: Hệ thống quản lý đơn online
+# Ý tưởng: Hệ thống quản lý đơn online
 
 Trang web: https://name-cntn16.github.io
 
 Poster: https://github.com/nmcntt2-cntn2016/project1-name/blob/master/poster.pptx
 
-### Thực trạng
+## Thực trạng
 
 Quá trình làm việc của hệ thống hành chính hiện nay không hiệu quả, tiêu tốn nhiều thời gian và công sức:
 
@@ -24,11 +24,11 @@ Quá trình làm việc của hệ thống hành chính hiện nay không hiệu
 -  Các phòng ban muốn cung cấp những đơn, giấy tờ cho sinh viên phải chuyển những yêu cầu của sinh viên đến các bộ phận có trách nhiệm, sau đó chuyển ngược lại cho sinh viên.
 - Bên cạnh đó còn tình trạng lưu trữ các hồ sơ, đơn từ rất tốn không gian và rất khó khăn cho việc tìm kiếm sau này.
 
-### Nội dung dự án
+## Nội dung dự án
 
 Từ những vấn đề trên, chúng tôi quyết định xây dựng hệ thống quản lý đơn online, giúp cho sinh viên có thể nộp đơn một cách nhanh chóng và tiện lợi. Đồng thời, nhà trường cũng có thể xử lý đơn dễ hơn.
 
-#### Các chức năng chính
+### Các chức năng chính
 
 - Chức năng dành cho sinh viên
 	- Tìm kiếm mẫu đơn phù hợp với nhu cầu của mình.
@@ -40,13 +40,13 @@ Từ những vấn đề trên, chúng tôi quyết định xây dựng hệ th�
 	- Giao tiếp, chuyển đơn qua lại giữa các phòng ban.
 	- Tạo và quản lý phòng ban, nhân viên, cán bộ (dành cho ban giám hiệu).
 
-#### Đối tượng hướng đến, lợi ích
+### Đối tượng hướng đến, lợi ích
 
 Đối tượng hướng đến là các trường đại học, trung học, ngoài ra cũng có thể mở rộng cho các công tý, tổ chức cần quản lý nhiều đơn từ.
 
 Hệ thống đơn online sẽ giúp công việc được xử lý nhanh hơn, đồng thời có thể tiết kiệm chi phí thuê nhân viên, cán bộ để xử lý đơn.
 
-#### Giải pháp
+### Giải pháp
 
 ![text](https://name-cntn16.github.io/png.png)
 
@@ -57,3 +57,8 @@ Hệ thống có các phần chính:
 - Cơ sở dữ liệu
 - Hệ thống API và backend server
 
+## Cần học những môn gì?
+
+- Các môn trong ngành công nghệ phần mềm.
+- Học các môn trong ngành hệ thống thông tin.
+- Có thể học vài môn trong ngành khoa học máy tính hoặc công nghệ tri thức để xử lý dữ liệu thông minh hơn.
