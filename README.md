@@ -59,6 +59,13 @@ Hệ thống có các phần chính:
 
 ## Cần học những môn gì?
 
-- Các môn trong ngành công nghệ phần mềm.
-- Học các môn trong ngành hệ thống thông tin.
-- Có thể học vài môn trong ngành khoa học máy tính hoặc công nghệ tri thức để xử lý dữ liệu thông minh hơn.
+- Các môn trong ngành công nghệ phần mềm
+	- Nhập môn công nghệ phần mềm 
+	- Công nghệ phần mềm nâng cao
+	- Công nghệ web và ứng dụng
+	- Lập trình trên thiết bị di động 
+	- Nhập môn kiểm hứng phần mềm 
+- Học các môn trong ngành hệ thống thông tin
+	- An toàn và bảo mật thông tin
+	- Hệ quản trị cơ sở dữ liệu
+	- Cơ sở dữ liệu nâng cao
