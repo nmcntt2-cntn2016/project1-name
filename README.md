@@ -64,7 +64,7 @@ Hệ thống có các phần chính:
 	- Công nghệ phần mềm nâng cao
 	- Công nghệ web và ứng dụng
 	- Lập trình trên thiết bị di động 
-	- Nhập môn kiểm hứng phần mềm 
+	- Nhập môn kiểm chứng phần mềm 
 - Học các môn trong ngành hệ thống thông tin
 	- An toàn và bảo mật thông tin
 	- Hệ quản trị cơ sở dữ liệu
